@@ -1,0 +1,9 @@
+[[Fontconfig]]
+arch = "x86_64"
+git-tree-sha1 = "c87572c5112c82a9eeb9e35a7cf45d6c1779a04c"
+libc = "glibc"
+os = "linux"
+
+    [[Fontconfig.download]]
+    sha256 = "8d2ceace6899f6d33691430554a319b0215f2c75211c9af65f01c930a9e8fd80"
+    url = "https://github.com/giordano/Fontconfig/releases/download/Fontconfig-v2.13.1+10/Fontconfig.v2.13.1.x86_64-linux-gnu.tar.gz"
